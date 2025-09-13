@@ -8,7 +8,7 @@ Background subtraction and source detection in B and V bands.
 
 Aperture photometry with per–star radius based on FWHM.
 
-Cross–matching between B and G detections.
+Cross–matching between B and V detections.
 
 Extraction of calibration stars from the APASS catalog and magnitude calibration.
 
