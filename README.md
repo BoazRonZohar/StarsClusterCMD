@@ -4,7 +4,7 @@ A complete photometry pipeline for star clusters (open or globular).
 
 Interactive user input (cluster type, distance, extinction parameters, FITS files).
 
-Background subtraction and source detection in B and G bands.
+Background subtraction and source detection in B and V bands.
 
 Aperture photometry with per–star radius based on FWHM.
 
