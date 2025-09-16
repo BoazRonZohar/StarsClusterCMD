@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created by: Dr. Boaz Ron Zohar
+https://github.com/BoazRonZohar/StarsClusterCMD/blob/main/Cluster_CMD_NEW_2.0.py
+Affiliation: Global Sky Forum / LCO Projects
+Date: September 2025
+
+This code was developed as part of students projects on star clusters
+
 Created on Tue Sep  9 14:17:31 2025
 
 @author: DR. Boaz Ron Zohar
